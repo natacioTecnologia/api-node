@@ -1,3 +1,4 @@
 export interface Icidade{
-  name: string
+  name: string,
+  estado: string
 }
